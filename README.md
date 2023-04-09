@@ -82,7 +82,7 @@
 200 - OK\
 400 - Bad Request
 
-**GET /histories** - получить список версий\
+**GET /histories** - получить историю\
 **Responses**:\
 200 - OK
 ```JSON
